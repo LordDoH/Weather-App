@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# DEMO
+[Go to website](https://weatherappmkr.netlify.app/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32aa836f-9668-4507-89ca-2864d76bb736/deploy-status)](https://app.netlify.com/sites/weatherappmkr/deploys)
 ## Available Scripts
 
 In the project directory, you can run:
